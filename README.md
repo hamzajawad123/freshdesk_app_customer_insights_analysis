@@ -36,7 +36,7 @@ The analysis aims to provide data-driven insights into agent performance, ticket
 ## 📈 Dashboard
 
 📊 **Interactive Tableau Dashboard:**  
-[Click here to explore the dashboard]("https://public.tableau.com/app/profile/hamza.jawad2518/viz/Internship_2/Dashboard1")
+[Click here to explore the dashboard](https://public.tableau.com/app/profile/hamza.jawad2518/viz/Internship_2/Dashboard1)
 
 ---
 
